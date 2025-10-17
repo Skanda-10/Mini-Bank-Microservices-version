@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="707efd1b-1fa8-4207-bdce-b9b6bd6ca15d" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/MiniBankAPI (1)/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Mini bank 2.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MiniBankAPI (1)/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/MiniBankAPI (1)/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MiniBankAPI (1)/src/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MiniBankAPI (1)/src/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/MiniBankAPI (1)/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MiniBankAPI (1)/src/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/MiniBankAPI (1)/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MiniBankAPI (1)/src/MiniBankAPI (1).iml" beforeDir="false" afterPath="$PROJECT_DIR$/MiniBankAPI (1)/.idea/MiniBankAPI (1).iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MiniBankAPI (1)/src/main/java/com/ash/minibank/DTO/TransactionRequestDTO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MiniBankAPI (1)/src/main/java/com/ash/minibank/MiniBankApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MiniBankAPI (1)/src/main/java/com/ash/minibank/controller/AccountController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MiniBankAPI (1)/src/main/java/com/ash/minibank/controller/UserController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MiniBankAPI (1)/src/main/java/com/ash/minibank/entity/Account.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MiniBankAPI (1)/src/main/java/com/ash/minibank/entity/User.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MiniBankAPI (1)/src/main/java/com/ash/minibank/repository/AccountRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MiniBankAPI (1)/src/main/java/com/ash/minibank/repository/UserRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MiniBankAPI (1)/src/main/java/com/ash/minibank/service/AccountService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MiniBankAPI (1)/src/main/java/com/ash/minibank/service/UserService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MiniBankAPI (1)/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/MiniBankAPI (1)/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MiniBankAPI (1)/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/MiniBankAPI (1)/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MiniBankAPI (1)/target/classes/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/MiniBankAPI (1)/target/classes/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MiniBankAPI (1)/target/classes/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/MiniBankAPI (1)/target/classes/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MiniBankAPI (1)/target/classes/com/ash/minibank/service/AccountService.class" beforeDir="false" afterPath="$PROJECT_DIR$/MiniBankAPI (1)/target/classes/com/ash/minibank/service/AccountService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MiniBankAPI (1)/target/classes/com/ash/minibank/service/TransactionRequestDTO.class" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/MiniBankAPI (1)/pom.xml" root0="SKIP_HIGHLIGHTING" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
+  <component name="ProjectId" id="32iVjl9Cu9fCW68mZmxT460prxu" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.MiniBankApplication.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Skanda 2/eureka-server",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2"
+  },
+  "keyToStringList": {
+    "com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File": [
+      "JAVA"
+    ]
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Skanda 2\Mini bank 2\Transaction" />
+      <recent name="C:\Skanda 2\Mini bank 2\Transaction\src" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Skanda 2\Account-Server\MiniBankAPI (1)\.idea" />
+      <recent name="C:\Skanda 2\Account-Server\MiniBankAPI (1)" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="MiniBankApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.ash.minibank.MiniBankApplication" />
+      <module name="MiniBankAPI" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ash.minibank.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.MiniBankApplication" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="707efd1b-1fa8-4207-bdce-b9b6bd6ca15d" name="Changes" comment="" />
+      <created>1757903516956</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1757903516956</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.net.ConnectException" package="java.net" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
